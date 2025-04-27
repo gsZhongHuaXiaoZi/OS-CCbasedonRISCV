@@ -2,7 +2,7 @@
 
 项目名称：{基于RISC-V的中文操作系统及C程序编译器的构建} 
 
-项目链接：{本赛题在github上的链接(https://github.com/gsZhongHuaXiaoZi/OS-CCbasedonRISCV)}
+项目链接：{本赛题在github上的链接：https://github.com/gsZhongHuaXiaoZi/OS-CCbasedonRISCV }
 
 导师信息：{翟高寿，gszhai@bjtu.edu.cn }
 
