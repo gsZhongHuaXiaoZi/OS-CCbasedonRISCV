@@ -4,7 +4,7 @@
 
 项目链接：{本赛题在github上的链接(https://github.com/gsZhongHuaXiaoZi/OS-CCbasedonRISCV)}
 
-导师信息：{翟高寿，13520656579，gszhai@bjtu.edu.cn }
+导师信息：{翟高寿，gszhai@bjtu.edu.cn }
 
 难度：{高}
 
